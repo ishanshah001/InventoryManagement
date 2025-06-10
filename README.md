@@ -1,4 +1,4 @@
-# 🛠️ Inventory Management (Node.js + React + Kafka + Zookeeper)
+# 🛠️ Inventory Management (Node.js + React + Kafka + Zookeeper + MongoDB)
 
 ## 📦 Overview
 This project implements an **inventory management system** with a **Node.js** backend and **React** frontend. It uses **Apache Kafka** for event-driven communication between services. The frontend offers real-time order tracking features with a clean interface.
@@ -26,7 +26,8 @@ This project implements an **inventory management system** with a **Node.js** ba
 - **Node.js** – Backend server  
 - **Express.js** – Web framework  
 - **Kafka** – Distributed event streaming platform  
-- **Zookeeper** – Kafka coordination service  
+- **Zookeeper** – Kafka coordination service
+- **MongoDB** - Non-relational database
 
 ### Frontend
 - **React** – UI development  
