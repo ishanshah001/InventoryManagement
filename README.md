@@ -68,7 +68,8 @@ npm install
 ```
 
 3️⃣ Start the frontend development server:
-```npm run dev
+```
+npm run dev
 ```
 
 ### Kafka & Zookeeper Setup (Windows)
