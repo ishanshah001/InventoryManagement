@@ -1,4 +1,4 @@
-# 🛠️ Inventory Management Microservices App (Node.js + React + Kafka + Zookeeper)
+# 🛠️ Inventory Management (Node.js + React + Kafka + Zookeeper)
 
 ## 📦 Overview
 This project implements an **inventory management system** with a **Node.js** backend and **React** frontend. It uses **Apache Kafka** for event-driven communication between services. The frontend offers real-time order tracking features with a clean interface.
@@ -10,7 +10,7 @@ This project implements an **inventory management system** with a **Node.js** ba
 ### Backend (Node.js + Kafka)
 - ✅ **Inventory API** with Node.js Express server  
 - 🧠 **Kafka** used as an event bus for asynchronous messaging  
-- 🔄 Event-driven architecture with decoupled microservices  
+- 🔄 Event-driven architecture  
 - 🚀 Fast and scalable Node.js backend  
 
 ### Frontend (React)
